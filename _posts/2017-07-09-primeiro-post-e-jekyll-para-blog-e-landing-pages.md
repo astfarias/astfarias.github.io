@@ -44,10 +44,11 @@ Até o momento as alterações ficam por conta da paleta de cores global, tradu�
 
 ### Próximo Passo
 
-O próximo passo é integrar AIDAX nesta plataforma para conseguir um nível detalhado de analytics de comportamento dos leitores.  
+O próximo passo é integrar [AIDAX][aidax] nesta plataforma para conseguir um nível detalhado de analytics de comportamento dos leitores.  
 
 
 [jekyll]:  https://jekyllrb.com
 [jekyll-curso]: https://www.udemy.com/criando-sites-estaticos-com-jekyll/
 [jekyll-cards]: https://github.com/sharu725/cards
 [jekyll-cards-wj]:https://github.com/willianjusten/cards-jekyll-template
+[aidax]: http://www.aidaxbi.com/
