@@ -1,0 +1,22 @@
+main-class
+-- dev : Assuntos para desenvolvedores
+categories
+- Qualidade
+- Governança & Gestão
+- Linguagens
+- Padrões de Projeto
+- Teste
+- Ferramentas
+- Algoritmos
+- WEB
+- Segurança
+- Redes
+- Open Source
+
+
+-- privy : Assuntos Pessoais
+categories
+- Notas de Estudo
+
+-- misc : Outros Assuntos 
+categories

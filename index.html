@@ -25,6 +25,11 @@ layout: default
                             <a href="{{site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a>
                         {% endfor %}
                     </div>
+                    <div class="tags">
+                        {% for category in post.categories %}
+                            <a href="{{site.baseurl}}/series/#{{category | slugify }}">{{ category }}</a>
+                        {% endfor %}
+                    </div>
                 </div>
         </article>
     {% endfor %}

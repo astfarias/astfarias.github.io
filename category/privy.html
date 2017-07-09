@@ -1,13 +1,13 @@
 ---
 layout: default
-main-class: 'estudo'
+main-class: 'privy'
 ---
 
 <main class="home" id="scroll" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
-    <h1 class="title-category">ESTUDO</h1>
+    <h1 class="title-category">ESTUDO & PESSOAL</h1>
     <div id="grid" class="row flex-grid">
     {% for post in site.posts %}
-        {% if post.main-class == 'estudo' %}
+        {% if post.main-class == 'privy' %}
             <article class="box-item post-{{post.main-class}}" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
                 <span class="ribbon"><span>{{post.main-class}}</span></span>
                     <div class="box-body">
