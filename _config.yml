@@ -1,7 +1,7 @@
 # Site settings
-title: Alex Farias - Blog
-description: Blog pessoal de Alex Farias sobre Técnologia, Aprendizagem de Máquina, Inteligência Artificial, Notas de Estudo, Desenvolvimento de Software, Javascript, Java, HTML, CSS, nodejs
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+title: Verbosidade
+description: Verbosidade é um Blog pessoal de Alex Farias sobre Tecnologia, Aprendizagem de Máquina, Inteligência Artificial, Notas de Estudo, Desenvolvimento de Software, Javascript, Java, HTML, CSS, nodejs
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://astfarias.github.io" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
@@ -10,7 +10,7 @@ user_description: Estudante de computação e Analista em AIDAX
 email: astfarias@gmail.com
 twitter_username: astfarias
 github_username:  astfarias
-gplus_username:  astfarias
+gplus_username:  AlexFarias-astfarias
 disqus_username: astfarias
 
 # Build settings
@@ -31,12 +31,12 @@ compress_html:
 links:
   - title: Home
     url: /
-  - title: Series
+  - title: Categorias
     url: /series
-  - title: Tags
+  - title: "#Tags"
     url: /tags
-  - title: About Me
-    url: /about
+  # - title: About Me
+  #   url: /about
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
