@@ -3,7 +3,7 @@ layout: post
 title: "Primeiro Post com Jekyll para Blog e Landing Pages"
 date: 2017-07-09 01:50:08
 image: '/assets/img/'
-description: "Començando a usar Jekyll para criar um blog pessoal de tecnologia e outras coisinhas"
+description: "Usando Jekyll para criar um blog pessoal de tecnologia e outras coisinhas"
 main-class: "dev"
 tags: 
 - jekyll
