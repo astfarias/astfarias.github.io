@@ -19,8 +19,3 @@ introduction: testeeee
 #Testando
 ```
 
-```
-
-Teste
-
-```
