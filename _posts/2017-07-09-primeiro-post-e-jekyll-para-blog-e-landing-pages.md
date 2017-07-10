@@ -11,7 +11,7 @@ categories:
 - Ferramentas
 - Open Source
 twitter_text: "Primeiro Post com Jekyll para Blog e Landing Pages"
-introduction: "Començando a usar Jekyll para criar um blog pessoal de tecnologia e outras coisinhas"
+introduction: "Usando Jekyll para criar um blog pessoal de tecnologia e outras coisinhas"
 ---
 
 ## Primeiro Post
