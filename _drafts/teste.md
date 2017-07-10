@@ -1,14 +1,18 @@
 ---
 layout: post
 comments: true
-title: teste
-date:
+title: teste de cms
+date: 2017-07-10 00:00:00
 image: /assets/img/
-description:
-main-class:
+description: Teste de descrição
+main-class: dev
 tags:
+  - html
 categories:
-twitter_text:
-introduction:
+  - Open Source
+twitter_text: Teste de twutter
+introduction: testeeee
 ---
-##
+
+
+#### #Teste
